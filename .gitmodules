@@ -1,0 +1,9 @@
+[submodule "binaryen"]
+	path = binaryen
+	url = https://github.com/WebAssembly/binaryen.git
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project.git
+[submodule "emscripten"]
+	path = emscripten
+	url = https://github.com/emscripten-core/emscripten.git
